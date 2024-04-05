@@ -1,4 +1,4 @@
-Short brief for "Number Guessing" game's logic:
+Brief about "Number Guessing" game's logic:
 
 A simple, yet dynamic approach to guess a random number using in-built C++ libraries (i.e., cstdlib & ctime)
 This code majorly relies on the working of "srand()" function for seeding the initial instances of reference points, and this functionality is achieved using the "time()" function.
